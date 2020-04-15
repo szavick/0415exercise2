@@ -1,0 +1,19 @@
+p {
+    border: 1px solid black;
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: -1px;
+}
+p:hover {
+    background-color: red;
+}
+.toptext {
+    border-top: none;
+    margin-top: 20px;
+
+}
+.bottomtext {
+    border-bottom: none;
+}
